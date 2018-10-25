@@ -1,0 +1,19 @@
+<resources>
+    <!--MainActivity-->
+    <string name="app_name">Статус</string>
+    <string name="current_status">Текущий статус:</string>
+    <string name="status">отсутствует</string>
+    <string name="trouble">проблема</string>
+    <string name="onLoading">идет погрузка</string>
+    <string name="paperWork">оформление документов</string>
+    <string name="onTheWay">в пути</string>
+
+
+    <!--InfoActivity-->
+    <string name="info">Информация</string>
+    <string name="save">Сохранить</string>
+    <string name="change">Изменить</string>
+    <string name="name">Имя:</string>
+    <string name="surname">Фамилия:</string>
+    <string name="patronymic">Отчество:</string>
+</resources>
